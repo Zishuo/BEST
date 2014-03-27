@@ -1,0 +1,414 @@
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T182845
+ hot rate : 0.2 hot flow : 0.08 normal flow : 0.0001
+	min object value : 40.9456
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------148.068
+	max object value : 61.4799
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------88.969
+min-max time : 237.127
+
+================================================
+ log prefix : 20130515T183242
+ hot rate : 0.3 hot flow : 0.08 normal flow : 0.0001
+	min object value : 63.797
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------82.506
+	max object value : 94.8781
+	node close : 17 rate : 0.944444
+	link close : 163 rate : 0.871658
+------------------------------------------------100.847
+min-max time : 183.403
+
+================================================
+ log prefix : 20130515T183545
+ hot rate : 0.4 hot flow : 0.08 normal flow : 0.0001
+	min object value : 81.9343
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.757
+	max object value : 124.042
+	node close : 17 rate : 0.944444
+	link close : 181 rate : 0.967914
+------------------------------------------------94.994
+min-max time : 175.795
+
+================================================
+ log prefix : 20130515T183841
+ hot rate : 0.5 hot flow : 0.08 normal flow : 0.0001
+	min object value : 101.51
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.158
+	max object value : 151.607
+	node close : 17 rate : 0.944444
+	link close : 179 rate : 0.957219
+------------------------------------------------93.769
+min-max time : 173.974
+
+================================================
+ log prefix : 20130515T184135
+ hot rate : 0.6 hot flow : 0.08 normal flow : 0.0001
+	min object value : 119.567
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.672
+	max object value : 178.054
+	node close : 16 rate : 0.888889
+	link close : 177 rate : 0.946524
+------------------------------------------------102.342
+min-max time : 183.061
+
+================================================
+ log prefix : 20130515T184438
+ hot rate : 0.7 hot flow : 0.08 normal flow : 0.0001
+	min object value : 136.186
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.537
+	max object value : 204.98
+	node close : 15 rate : 0.833333
+	link close : 174 rate : 0.930481
+------------------------------------------------112.192
+min-max time : 192.778
+
+================================================
+ log prefix : 20130515T184751
+ hot rate : 0.8 hot flow : 0.08 normal flow : 0.0001
+	min object value : 158.319
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.059
+	max object value : 236.541
+	node close : 14 rate : 0.777778
+	link close : 170 rate : 0.909091
+------------------------------------------------132.425
+min-max time : 212.532
+
+================================================
+ log prefix : 20130515T185124
+ hot rate : 0.9 hot flow : 0.08 normal flow : 0.0001
+	min object value : 179.173
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.357
+	max object value : 267.862
+	node close : 14 rate : 0.777778
+	link close : 171 rate : 0.914439
+------------------------------------------------130.972
+min-max time : 211.377
+
+================================================
+ log prefix : 20130515T185455
+ hot rate : 1 hot flow : 0.08 normal flow : 0.0001
+	min object value : 200.746
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------80.2
+	max object value : 300.461
+	node close : 14 rate : 0.777778
+	link close : 169 rate : 0.903743
+------------------------------------------------135.227
+min-max time : 215.473
+
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T190842
+ hot rate : 0.25 hot flow : 0.08 normal flow : 0.0001
+	min object value : 52.0517
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------83.957
+	max object value : 78.2589
+	node close : 17 rate : 0.944444
+	link close : 185 rate : 0.989305
+------------------------------------------------102.092
+min-max time : 186.097
+
+================================================
+ log prefix : 20130515T191148
+ hot rate : 0.35 hot flow : 0.08 normal flow : 0.0001
+	min object value : 75.3026
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------96.134
+	max object value : 112.376
+	node close : 17 rate : 0.944444
+	link close : 183 rate : 0.97861
+------------------------------------------------107.005
+min-max time : 203.192
+
+================================================
+ log prefix : 20130515T191511
+ hot rate : 0.45 hot flow : 0.08 normal flow : 0.0001
+	min object value : 94.5585
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------88.132
+	max object value : 142.658
+	node close : 17 rate : 0.944444
+	link close : 179 rate : 0.957219
+------------------------------------------------100.509
+min-max time : 188.692
+
+================================================
+ log prefix : 20130515T191820
+ hot rate : 0.55 hot flow : 0.08 normal flow : 0.0001
+	min object value : 112.216
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------89.999
+	max object value : 167.667
+	node close : 17 rate : 0.944444
+	link close : 180 rate : 0.962567
+------------------------------------------------102.283
+min-max time : 192.331
+
+================================================
+ log prefix : 20130515T192132
+ hot rate : 0.65 hot flow : 0.08 normal flow : 0.0001
+	min object value : 130.114
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------88.072
+	max object value : 193.714
+	node close : 16 rate : 0.888889
+	link close : 174 rate : 0.930481
+------------------------------------------------116.37
+min-max time : 204.49
+
+================================================
+ log prefix : 20130515T192457
+ hot rate : 0.75 hot flow : 0.08 normal flow : 0.0001
+	min object value : 145.455
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------98.864
+	max object value : 218.803
+	node close : 15 rate : 0.833333
+	link close : 173 rate : 0.925134
+------------------------------------------------207.582
+min-max time : 306.496
+
+================================================
+ log prefix : 20130515T193003
+ hot rate : 0.85 hot flow : 0.08 normal flow : 0.0001
+	min object value : 169.265
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------109.532
+	max object value : 253.56
+	node close : 14 rate : 0.777778
+	link close : 172 rate : 0.919786
+------------------------------------------------137.969
+min-max time : 247.558
+
+================================================
+ log prefix : 20130515T193411
+ hot rate : 0.95 hot flow : 0.08 normal flow : 0.0001
+	min object value : 190.598
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------85.501
+	max object value : 284.96
+	node close : 14 rate : 0.777778
+	link close : 170 rate : 0.909091
+------------------------------------------------148.106
+min-max time : 233.65
+
+================================================
+ log prefix : 20130515T193805
+ hot rate : 1.05 hot flow : 0.08 normal flow : 0.0001
+	min object value : 200.746
+	node close : 18 rate : 1
+	link close : 187 rate : 1
+------------------------------------------------83.139
+	max object value : 300.461
+	node close : 14 rate : 0.777778
+	link close : 168 rate : 0.898396
+------------------------------------------------140.398
+min-max time : 223.578
+
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T203655
+ hot rate : 1 hot flow : 0.2 normal flow : 0.0001
+	min object value : 500.266
+	node close : 16 rate : 0.888889
+	link close : 179 rate : 0.957219
+------------------------------------------------103.54
+	max object value : 749.741
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.888
+min-max time : 106.476
+
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T204100
+ hot rate : 1 hot flow : 0.3 normal flow : 0.0001
+	min object value : 749.866
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.878
+	max object value : 1124.14
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.843
+min-max time : 5.771
+
+================================================
+ log prefix : 20130515T204106
+ hot rate : 1 hot flow : 0.4 normal flow : 0.0001
+	min object value : 999.466
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.972
+	max object value : 1498.54
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.821
+min-max time : 5.839
+
+================================================
+ log prefix : 20130515T204111
+ hot rate : 1 hot flow : 0.5 normal flow : 0.0001
+	min object value : 1249.07
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.835
+	max object value : 1872.94
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.863
+min-max time : 5.746
+
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T204158
+ hot rate : 1 hot flow : 0.225 normal flow : 0.0001
+	min object value : 562.666
+	node close : 0 rate : 0
+	link close : 131 rate : 0.700535
+------------------------------------------------694.036
+	max object value : 843.341
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.808
+min-max time : 696.89
+
+================================================
+ log prefix : 20130515T205335
+ hot rate : 1 hot flow : 0.25 normal flow : 0.0001
+	min object value : 625.066
+	node close : 0 rate : 0
+	link close : 131 rate : 0.700535
+------------------------------------------------692.515
+	max object value : 936.941
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.691
+min-max time : 695.249
+
+================================================
+ log prefix : 20130515T210510
+ hot rate : 1 hot flow : 0.275 normal flow : 0.0001
+	min object value : 687.466
+	node close : 0 rate : 0
+	link close : 131 rate : 0.700535
+------------------------------------------------692.685
+	max object value : 1030.54
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.72
+min-max time : 695.455
+
+================================================
+ log prefix : 20130515T211646
+ hot rate : 1 hot flow : 0.3 normal flow : 0.0001
+	min object value : 749.866
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------3.07
+	max object value : 1124.14
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------2.832
+min-max time : 5.956
+
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T212513
+ hot rate : 0.1 hot flow : 0.08 normal flow : 0.0001
+ available nodes : 18
+ available links : 187
+
+================================================
+ log prefix : 20130515T213050
+ hot rate : 0.1 hot flow : 0.08 normal flow : 0.0001
+	min object value : 22.3289
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.329
+	max object value : 32.636
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.317
+min-max time : 2.775
+
+================================================
+ log prefix : 20130515T213052
+ hot rate : 0.15 hot flow : 0.08 normal flow : 0.0001
+	min object value : 32.7159
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.247
+	max object value : 48.3763
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.417
+min-max time : 2.848
+
+================================================
+ log prefix : 20130515T213055
+ hot rate : 0.2 hot flow : 0.08 normal flow : 0.0001
+	min object value : 42.3039
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.527
+	max object value : 63.6372
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.545
+min-max time : 3.255
+
+================================================
+ log prefix : 20130515T213059
+ hot rate : 0.25 hot flow : 0.08 normal flow : 0.0001
+	min object value : 53.6497
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.454
+	max object value : 79.6971
+	node close : 0 rate : 0
+	link close : 0 rate : 0
+------------------------------------------------1.682
+min-max time : 3.494
+

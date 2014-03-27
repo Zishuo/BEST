@@ -1,0 +1,48 @@
+i 0blocks size : 4
+hot zone 0
+i 1blocks size : 4
+hot zone 0
+i 2blocks size : 4
+hot zone 0
+i 3blocks size : 4
+hot zone 0
+i 4blocks size : 4
+hot zone 0
+i 5blocks size : 4
+hot zone 0
+i 6blocks size : 4
+hot zone 1
+i 7blocks size : 4
+hot zone 1
+i 8blocks size : 4
+hot zone 1
+i 9blocks size : 4
+hot zone 1
+i 10blocks size : 4
+hot zone 1
+i 11blocks size : 4
+hot zone 1
+i 12blocks size : 4
+hot zone 2
+i 13blocks size : 4
+hot zone 2
+i 14blocks size : 4
+hot zone 2
+i 15blocks size : 4
+hot zone 2
+i 16blocks size : 4
+hot zone 2
+i 17blocks size : 4
+hot zone 2
+i 18blocks size : 4
+hot zone 3
+i 19blocks size : 4
+hot zone 3
+i 20blocks size : 4
+hot zone 3
+i 21blocks size : 4
+hot zone 3
+i 22blocks size : 4
+hot zone 3
+i 23blocks size : 4
+hot zone 3

@@ -1,0 +1,2295 @@
+ @ begin to close node...
+
+restore paths...
+time : 1.215
+computing links oc + lf...
+time : 0.142
+computing oc+lf ...
+time : 0.281
+check_subject...
+time : 0.187
+ # 20 | 76
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 14252
+time : 4.535
+check_subject...
+time : 0.196
+close success.
+ # 21 | 77
+checking network connectivity...time : 0
+connect fail.
+ # 10 | 78
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 28636
+time : 10.918
+check_subject...
+time : 0.176
+close success.
+ # 11 | 79
+checking network connectivity...time : 0
+connect fail.
+ # 28 | 80
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 10748
+time : 1.905
+check_subject...
+time : 0.166
+close success.
+ # 29 | 81
+checking network connectivity...time : 0.001
+connect fail.
+ # 32 | 82
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 24860
+time : 5.839
+check_subject...
+time : 0.158
+close success.
+ # 33 | 83
+checking network connectivity...time : 0
+connect fail.
+ # 16 | 84
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 34012
+time : 11.542
+check_subject...
+time : 0.158
+close success.
+ # 17 | 85
+checking network connectivity...time : 0
+connect fail.
+ # 34 | 86
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 19132
+time : 4.251
+check_subject...
+time : 0.141
+close success.
+ # 35 | 87
+checking network connectivity...time : 0
+connect fail.
+ # 26 | 88
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 16472
+time : 3.104
+check_subject...
+time : 0.133
+close success.
+ # 27 | 89
+checking network connectivity...time : 0
+connect fail.
+ # 12 | 90
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 24908
+time : 7.136
+check_subject...
+time : 0.127
+close success.
+ # 13 | 91
+checking network connectivity...time : 0
+connect fail.
+ # 30 | 92
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 8412
+time : 1.338
+check_subject...
+time : 0.118
+close success.
+ # 31 | 93
+checking network connectivity...time : 0
+connect fail.
+ # 2 | 94
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 29372
+time : 6.53
+check_subject...
+time : 0.108
+close success.
+ # 3 | 95
+checking network connectivity...time : 0
+connect fail.
+ # 4 | 96
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 23436
+time : 5.096
+check_subject...
+time : 0.09
+close success.
+ # 5 | 97
+checking network connectivity...time : 0
+connect fail.
+ # 25 | 98
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 13604
+time : 2.312
+check_subject...
+time : 0.082
+close success.
+ # 24 | 99
+checking network connectivity...time : 0
+connect fail.
+ # 8 | 100
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 15484
+time : 2.979
+check_subject...
+time : 0.073
+close success.
+ # 9 | 101
+checking network connectivity...time : 0
+connect fail.
+ # 0 | 102
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 8108
+time : 1.076
+check_subject...
+time : 0.058
+close success.
+ # 1 | 103
+checking network connectivity...time : 0
+connect fail.
+ # 22 | 104
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 9468
+time : 1.873
+check_subject...
+4
+80->(2.0147/5)23->(9.9384/10)14->(7.0793/10)7->(8.0264/100)111
+80->(2.0147/5)23->(9.9384/10)14->(4.6793/10)6->(18.5289/100)111
+80->(2.0147/5)23->(9.966/10)15->(8.605/10)6->(18.5289/100)111
+80->(2.0147/5)23->(9.966/10)15->(6.2781/10)7->(8.0264/100)111
+failed opt on flow 111->80 : 0.08
+ S : 80 D : 111 number : 4
+80->23->14->7->111->
+80->23->14->6->111->
+80->23->15->6->111->
+80->23->15->7->111->
+check fail.
+ # 23 | 105
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 9468
+time : 1.956
+check_subject...
+4
+80->(2.0147/5)22->(9.9408/10)15->(9.8849/10)6->(18.8513/100)111
+80->(2.0147/5)22->(9.9408/10)15->(4.9922/10)7->(7.704/100)111
+80->(2.0147/5)22->(9.9636/10)14->(7.6433/10)7->(7.704/100)111
+80->(2.0147/5)22->(9.9636/10)14->(4.1213/10)6->(18.8513/100)111
+failed opt on flow 111->80 : 0.08
+ S : 80 D : 111 number : 4
+80->22->15->6->111->
+80->22->15->7->111->
+80->22->14->7->111->
+80->22->14->6->111->
+check fail.
+ # 18 | 106
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 12656
+time : 2.588
+check_subject...
+2
+104->(0.962501/5)35->(4.2672/10)14->(9.9846/10)19->(23.4977/100)108
+104->(0.962501/5)35->(3.2855/10)15->(9.9879/10)19->(23.4977/100)108
+failed opt on flow 108->104 : 0.08
+ S : 104 D : 108 number : 2
+104->35->14->19->108->
+104->35->15->19->108->
+check fail.
+ # 19 | 107
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 12656
+time : 2.57
+check_subject...
+2
+104->(0.882501/5)35->(4.1872/10)14->(9.9657/10)18->(23.4177/100)108
+104->(0.882501/5)35->(3.2855/10)15->(9.9268/10)18->(23.4177/100)108
+failed opt on flow 108->104 : 0.08
+ S : 104 D : 108 number : 2
+104->35->14->18->108->
+104->35->15->18->108->
+check fail.
+ # 15 | 108
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 16760
+time : 3.847
+check_subject...
+2
+68->(2.0147/5)17->(0.327201/10)14->(9.9813/10)7->(6.2614/100)111
+68->(2.0147/5)17->(0.327201/10)14->(9.9999/10)6->(13.6334/100)111
+failed opt on flow 111->68 : 0.08
+ S : 68 D : 111 number : 2
+68->17->14->7->111->
+68->17->14->6->111->
+check fail.
+ # 14 | 109
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 16760
+time : 3.865
+check_subject...
+2
+68->(1.9347/5)17->(0.247201/10)15->(9.9805/10)6->(13.6382/100)111
+68->(1.9347/5)17->(0.247201/10)15->(9.9207/10)7->(6.1766/100)111
+failed opt on flow 111->68 : 0.08
+ S : 68 D : 111 number : 2
+68->17->15->6->111->
+68->17->15->7->111->
+check fail.
+ # 7 | 110
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 12604
+time : 2.315
+check_subject...
+4
+45->(1.6074/5)5->(9.9746/10)6->(6.2001/10)15->(3.1255/10)22->(3.1255/100)109
+45->(1.6074/5)5->(9.9746/10)6->(6.2001/10)15->(3.0458/10)23->(5.8519/100)109
+45->(1.6074/5)5->(9.9746/10)6->(2.8301/10)14->(2.8061/10)23->(5.8519/100)109
+45->(1.6074/5)5->(9.9746/10)6->(2.8301/10)14->(3.6e-007/10)22->(3.1255/100)109
+failed opt on flow 109->45 : 0.08
+ S : 45 D : 109 number : 4
+45->5->6->15->22->109->
+45->5->6->15->23->109->
+45->5->6->14->23->109->
+45->5->6->14->22->109->
+check fail.
+ # 6 | 111
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 12604
+time : 2.372
+check_subject...
+4
+45->(1.6074/5)5->(9.9746/10)7->(6.3599/10)14->(3.1255/10)22->(4.6484/100)109
+45->(1.6074/5)5->(9.9746/10)7->(6.3599/10)14->(3.2056/10)23->(4.329/100)109
+45->(1.6074/5)5->(9.9746/10)7->(2.6703/10)15->(1.1234/10)23->(4.329/100)109
+45->(1.6074/5)5->(9.9746/10)7->(2.6703/10)15->(1.5229/10)22->(4.6484/100)109
+failed opt on flow 109->45 : 0.08
+ S : 45 D : 109 number : 4
+45->5->7->14->22->109->
+45->5->7->14->23->109->
+45->5->7->15->23->109->
+45->5->7->15->22->109->
+check fail.
+ @ complete to close node...94.062
+ @ begin close link...
+computing links oc + lf...
+time : 0.037
+computing oc+lf ...
+time : 0.054
+ %  S 35 <-> E 33 | 1
+close link : 35<->33
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 64
+time : 0.04
+check_subject...
+time : 0.056
+close success.
+ %  S 66 <-> E 15 | 2
+close link : 66<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 340
+time : 0.093
+check_subject...
+time : 0.056
+close success.
+ %  S 66 <-> E 14 | 3
+close link : 66<->14
+checking network connectivity...time : 0
+open link : 66<->14
+connect fail.
+ %  S 67 <-> E 15 | 4
+close link : 67<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 338
+time : 0.102
+check_subject...
+time : 0.057
+close success.
+ %  S 67 <-> E 14 | 5
+close link : 67<->14
+checking network connectivity...time : 0
+open link : 67<->14
+connect fail.
+ %  S 70 <-> E 17 | 6
+close link : 70<->17
+checking network connectivity...time : 0
+open link : 70<->17
+connect fail.
+ %  S 71 <-> E 17 | 7
+close link : 71<->17
+checking network connectivity...time : 0
+open link : 71<->17
+connect fail.
+ %  S 58 <-> E 11 | 8
+close link : 58<->11
+checking network connectivity...time : 0
+open link : 58<->11
+connect fail.
+ %  S 59 <-> E 11 | 9
+close link : 59<->11
+checking network connectivity...time : 0
+open link : 59<->11
+connect fail.
+ %  S 74 <-> E 18 | 10
+close link : 74<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 512
+time : 0.115
+check_subject...
+time : 0.057
+close success.
+ %  S 75 <-> E 18 | 11
+close link : 75<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 510
+time : 0.108
+check_subject...
+time : 0.06
+close success.
+ %  S 75 <-> E 19 | 12
+close link : 75<->19
+checking network connectivity...time : 0
+open link : 75<->19
+connect fail.
+ %  S 74 <-> E 19 | 13
+close link : 74<->19
+checking network connectivity...time : 0
+open link : 74<->19
+connect fail.
+ %  S 51 <-> E 6 | 14
+close link : 51<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 512
+time : 0.125
+check_subject...
+time : 0.061
+close success.
+ %  S 51 <-> E 7 | 15
+close link : 51<->7
+checking network connectivity...time : 0
+open link : 51<->7
+connect fail.
+ %  S 50 <-> E 7 | 16
+close link : 50<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 511
+time : 0.114
+check_subject...
+time : 0.057
+close success.
+ %  S 50 <-> E 6 | 17
+close link : 50<->6
+checking network connectivity...time : 0
+open link : 50<->6
+connect fail.
+ %  S 79 <-> E 21 | 18
+close link : 79<->21
+checking network connectivity...time : 0
+open link : 79<->21
+connect fail.
+ %  S 78 <-> E 21 | 19
+close link : 78<->21
+checking network connectivity...time : 0.001
+open link : 78<->21
+connect fail.
+ %  S 63 <-> E 13 | 20
+close link : 63<->13
+checking network connectivity...time : 0
+open link : 63<->13
+connect fail.
+ %  S 62 <-> E 13 | 21
+close link : 62<->13
+checking network connectivity...time : 0
+open link : 62<->13
+connect fail.
+ %  S 103 <-> E 33 | 22
+close link : 103<->33
+checking network connectivity...time : 0
+open link : 103<->33
+connect fail.
+ %  S 102 <-> E 33 | 23
+close link : 102<->33
+checking network connectivity...time : 0
+open link : 102<->33
+connect fail.
+ %  S 82 <-> E 23 | 24
+close link : 82<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 648
+time : 0.121
+check_subject...
+time : 0.06
+close success.
+ %  S 83 <-> E 22 | 25
+close link : 83<->22
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 647
+time : 0.128
+check_subject...
+time : 0.063
+close success.
+ %  S 82 <-> E 22 | 26
+close link : 82<->22
+checking network connectivity...time : 0
+open link : 82<->22
+connect fail.
+ %  S 83 <-> E 23 | 27
+close link : 83<->23
+checking network connectivity...time : 0.001
+open link : 83<->23
+connect fail.
+ %  S 107 <-> E 35 | 28
+close link : 107<->35
+checking network connectivity...time : 0
+open link : 107<->35
+connect fail.
+ %  S 106 <-> E 35 | 29
+close link : 106<->35
+checking network connectivity...time : 0
+open link : 106<->35
+connect fail.
+ %  S 54 <-> E 9 | 30
+close link : 54<->9
+checking network connectivity...time : 0
+open link : 54<->9
+connect fail.
+ %  S 55 <-> E 9 | 31
+close link : 55<->9
+checking network connectivity...time : 0
+open link : 55<->9
+connect fail.
+ %  S 22 <-> E 21 | 32
+close link : 22<->21
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1541
+time : 0.428
+check_subject...
+time : 0.059
+close success.
+ %  S 23 <-> E 21 | 33
+close link : 23<->21
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1352
+time : 0.432
+check_subject...
+time : 0.056
+close success.
+ %  S 64 <-> E 14 | 34
+close link : 64<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 326
+time : 0.095
+check_subject...
+time : 0.057
+close success.
+ %  S 64 <-> E 15 | 35
+close link : 64<->15
+checking network connectivity...time : 0
+open link : 64<->15
+connect fail.
+ %  S 65 <-> E 15 | 36
+close link : 65<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 347
+time : 0.097
+check_subject...
+time : 0.059
+close success.
+ %  S 65 <-> E 14 | 37
+close link : 65<->14
+checking network connectivity...time : 0
+open link : 65<->14
+connect fail.
+ %  S 95 <-> E 29 | 38
+close link : 95<->29
+checking network connectivity...time : 0
+open link : 95<->29
+connect fail.
+ %  S 94 <-> E 29 | 39
+close link : 94<->29
+checking network connectivity...time : 0
+open link : 94<->29
+connect fail.
+ %  S 43 <-> E 3 | 40
+close link : 43<->3
+checking network connectivity...time : 0
+open link : 43<->3
+connect fail.
+ %  S 42 <-> E 3 | 41
+close link : 42<->3
+checking network connectivity...time : 0
+open link : 42<->3
+connect fail.
+ %  S 47 <-> E 5 | 42
+close link : 47<->5
+checking network connectivity...time : 0
+open link : 47<->5
+connect fail.
+ %  S 46 <-> E 5 | 43
+close link : 46<->5
+checking network connectivity...time : 0.001
+open link : 46<->5
+connect fail.
+ %  S 35 <-> E 21 | 44
+close link : 35<->21
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 32
+time : 0.046
+check_subject...
+time : 0.055
+close success.
+ %  S 99 <-> E 31 | 45
+close link : 99<->31
+checking network connectivity...time : 0.001
+open link : 99<->31
+connect fail.
+ %  S 98 <-> E 31 | 46
+close link : 98<->31
+checking network connectivity...time : 0
+open link : 98<->31
+connect fail.
+ %  S 19 <-> E 13 | 47
+close link : 19<->13
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 744
+time : 0.258
+check_subject...
+time : 0.054
+close success.
+ %  S 18 <-> E 13 | 48
+close link : 18<->13
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 456
+time : 0.433
+check_subject...
+time : 0.06
+close success.
+ %  S 69 <-> E 17 | 49
+close link : 69<->17
+checking network connectivity...time : 0
+open link : 69<->17
+connect fail.
+ %  S 68 <-> E 17 | 50
+close link : 68<->17
+checking network connectivity...time : 0
+open link : 68<->17
+connect fail.
+ %  S 90 <-> E 27 | 51
+close link : 90<->27
+checking network connectivity...time : 0
+open link : 90<->27
+connect fail.
+ %  S 91 <-> E 27 | 52
+close link : 91<->27
+checking network connectivity...time : 0
+open link : 91<->27
+connect fail.
+ %  S 76 <-> E 21 | 53
+close link : 76<->21
+checking network connectivity...time : 0
+open link : 76<->21
+connect fail.
+ %  S 77 <-> E 21 | 54
+close link : 77<->21
+checking network connectivity...time : 0
+open link : 77<->21
+connect fail.
+ %  S 48 <-> E 7 | 55
+close link : 48<->7
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 506
+time : 0.12
+check_subject...
+time : 0.06
+close success.
+ %  S 48 <-> E 6 | 56
+close link : 48<->6
+checking network connectivity...time : 0
+open link : 48<->6
+connect fail.
+ %  S 49 <-> E 6 | 57
+close link : 49<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 512
+time : 0.109
+check_subject...
+time : 0.057
+close success.
+ %  S 49 <-> E 7 | 58
+close link : 49<->7
+checking network connectivity...time : 0
+open link : 49<->7
+connect fail.
+ %  S 87 <-> E 24 | 59
+close link : 87<->24
+checking network connectivity...time : 0
+open link : 87<->24
+connect fail.
+ %  S 86 <-> E 24 | 60
+close link : 86<->24
+checking network connectivity...time : 0.001
+open link : 86<->24
+connect fail.
+ %  S 21 <-> E 14 | 61
+close link : 21<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1221
+time : 0.377
+check_subject...
+time : 0.054
+close success.
+ %  S 21 <-> E 15 | 62
+close link : 21<->15
+checking network connectivity...time : 0
+open link : 21<->15
+connect fail.
+ %  S 101 <-> E 33 | 63
+close link : 101<->33
+checking network connectivity...time : 0
+open link : 101<->33
+connect fail.
+ %  S 100 <-> E 33 | 64
+close link : 100<->33
+checking network connectivity...time : 0
+open link : 100<->33
+connect fail.
+ %  S 38 <-> E 1 | 65
+close link : 38<->1
+checking network connectivity...time : 0.001
+open link : 38<->1
+connect fail.
+ %  S 39 <-> E 1 | 66
+close link : 39<->1
+checking network connectivity...time : 0
+open link : 39<->1
+connect fail.
+ %  S 18 <-> E 17 | 67
+close link : 18<->17
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2552
+time : 0.635
+check_subject...
+time : 0.054
+close success.
+ %  S 19 <-> E 17 | 68
+close link : 19<->17
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2500
+time : 0.692
+check_subject...
+time : 0.055
+close success.
+ %  S 61 <-> E 13 | 69
+close link : 61<->13
+checking network connectivity...time : 0
+open link : 61<->13
+connect fail.
+ %  S 60 <-> E 13 | 70
+close link : 60<->13
+checking network connectivity...time : 0
+open link : 60<->13
+connect fail.
+ %  S 24 <-> E 17 | 71
+close link : 24<->17
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3176
+time : 0.728
+check_subject...
+time : 0.054
+close success.
+ %  S 105 <-> E 35 | 72
+close link : 105<->35
+checking network connectivity...time : 0
+open link : 105<->35
+connect fail.
+ %  S 104 <-> E 35 | 73
+close link : 104<->35
+checking network connectivity...time : 0
+open link : 104<->35
+connect fail.
+ %  S 81 <-> E 23 | 74
+close link : 81<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 577
+time : 0.116
+check_subject...
+time : 0.058
+close success.
+ %  S 81 <-> E 22 | 75
+close link : 81<->22
+checking network connectivity...time : 0
+open link : 81<->22
+connect fail.
+ %  S 80 <-> E 23 | 76
+close link : 80<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 581
+time : 0.115
+check_subject...
+time : 0.053
+close success.
+ %  S 80 <-> E 22 | 77
+close link : 80<->22
+checking network connectivity...time : 0
+open link : 80<->22
+connect fail.
+ %  S 72 <-> E 18 | 78
+close link : 72<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 492
+time : 0.1
+check_subject...
+time : 0.053
+close success.
+ %  S 72 <-> E 19 | 79
+close link : 72<->19
+checking network connectivity...time : 0
+open link : 72<->19
+connect fail.
+ %  S 73 <-> E 19 | 80
+close link : 73<->19
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 493
+time : 0.144
+check_subject...
+time : 0.051
+close success.
+ %  S 73 <-> E 18 | 81
+close link : 73<->18
+checking network connectivity...time : 0
+open link : 73<->18
+connect fail.
+ %  S 17 <-> E 13 | 82
+close link : 17<->13
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1368
+time : 0.789
+check_subject...
+time : 0.054
+close success.
+ %  S 57 <-> E 11 | 83
+close link : 57<->11
+checking network connectivity...time : 0.001
+open link : 57<->11
+connect fail.
+ %  S 56 <-> E 11 | 84
+close link : 56<->11
+checking network connectivity...time : 0
+open link : 56<->11
+connect fail.
+ %  S 13 <-> E 9 | 85
+close link : 13<->9
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 5304
+time : 1.17
+check_subject...
+time : 0.05
+close success.
+ %  S 17 <-> E 15 | 86
+close link : 17<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 914
+time : 0.282
+check_subject...
+time : 0.05
+close success.
+ %  S 17 <-> E 14 | 87
+close link : 17<->14
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 384
+time : 0.517
+check_subject...
+time : 0.053
+close success.
+ %  S 22 <-> E 17 | 88
+close link : 22<->17
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2070
+time : 0.422
+check_subject...
+time : 0.051
+close success.
+ %  S 23 <-> E 17 | 89
+close link : 23<->17
+checking network connectivity...time : 0
+open link : 23<->17
+connect fail.
+ %  S 11 <-> E 6 | 90
+close link : 11<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 4316
+time : 1.049
+check_subject...
+time : 0.049
+close success.
+ %  S 11 <-> E 7 | 91
+close link : 11<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3484
+time : 1.553
+check_subject...
+2
+61->(0.160201/5)13->(9.9656/10)24->(0.160201/10)19->(0.1794/100)108
+61->(0.160201/5)13->(9.9656/10)24->(1.6124/10)18->(1.6412/100)108
+failed opt on flow 108->61 : 0.08
+ S : 61 D : 108 number : 2
+61->13->24->19->108->
+61->13->24->18->108->
+open link : 11<->7
+check fail.
+close success.
+ %  S 24 <-> E 13 | 92
+close link : 24<->13
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3292
+time : 0.774
+check_subject...
+6
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(6.6146/10)14->(1.7726/10)19->(1.787/100)108
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(6.6146/10)14->(0.0240004/10)18->(0.0336/100)108
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(1.7674/10)9->(2.7e-007/10)18->(0.0336/100)108
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(1.7674/10)9->(0.00960039/10)19->(1.787/100)108
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(6.9945/10)15->(0.00480059/10)19->(1.787/100)108
+61->(0.160201/5)13->(3.3754/10)11->(9.9656/10)7->(6.9945/10)15->(0.00960028/10)18->(0.0336/100)108
+failed opt on flow 108->61 : 0.08
+ S : 61 D : 108 number : 6
+61->13->11->7->14->19->108->
+61->13->11->7->14->18->108->
+61->13->11->7->9->18->108->
+61->13->11->7->9->19->108->
+61->13->11->7->15->19->108->
+61->13->11->7->15->18->108->
+open link : 24<->13
+check fail.
+close success.
+ %  S 13 <-> E 11 | 93
+close link : 13<->11
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3208
+time : 1.035
+check_subject...
+time : 0.053
+close success.
+ %  S 40 <-> E 3 | 94
+close link : 40<->3
+checking network connectivity...time : 0
+open link : 40<->3
+connect fail.
+ %  S 44 <-> E 5 | 95
+close link : 44<->5
+checking network connectivity...time : 0
+open link : 44<->5
+connect fail.
+ %  S 41 <-> E 3 | 96
+close link : 41<->3
+checking network connectivity...time : 0
+open link : 41<->3
+connect fail.
+ %  S 45 <-> E 5 | 97
+close link : 45<->5
+checking network connectivity...time : 0
+open link : 45<->5
+connect fail.
+ %  S 97 <-> E 31 | 98
+close link : 97<->31
+checking network connectivity...time : 0
+open link : 97<->31
+connect fail.
+ %  S 96 <-> E 31 | 99
+close link : 96<->31
+checking network connectivity...time : 0
+open link : 96<->31
+connect fail.
+ %  S 27 <-> E 23 | 100
+close link : 27<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3311
+time : 0.733
+check_subject...
+time : 0.05
+close success.
+ %  S 27 <-> E 22 | 101
+close link : 27<->22
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2658
+time : 0.57
+check_subject...
+time : 0.05
+close success.
+ %  S 89 <-> E 27 | 102
+close link : 89<->27
+checking network connectivity...time : 0
+open link : 89<->27
+connect fail.
+ %  S 88 <-> E 27 | 103
+close link : 88<->27
+checking network connectivity...time : 0
+open link : 88<->27
+connect fail.
+ %  S 92 <-> E 29 | 104
+close link : 92<->29
+checking network connectivity...time : 0
+open link : 92<->29
+connect fail.
+ %  S 93 <-> E 29 | 105
+close link : 93<->29
+checking network connectivity...time : 0
+open link : 93<->29
+connect fail.
+ %  S 24 <-> E 18 | 106
+close link : 24<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 5911
+time : 1.19
+check_subject...
+time : 0.046
+close success.
+ %  S 24 <-> E 19 | 107
+close link : 24<->19
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 4468
+time : 1.209
+check_subject...
+4
+80->(2.8148/5)22->(9.9492/10)14->(5.4141/10)7->(13.3194/100)111
+80->(2.8148/5)22->(9.9492/10)14->(8.1227/10)6->(14.036/100)111
+80->(2.8148/5)22->(9.9467/10)15->(6.9201/10)6->(14.036/100)111
+80->(2.8148/5)22->(9.9467/10)15->(7.0041/10)7->(13.3194/100)111
+failed opt on flow 111->80 : 0.08
+ S : 80 D : 111 number : 4
+80->22->14->7->111->
+80->22->14->6->111->
+80->22->15->6->111->
+80->22->15->7->111->
+open link : 24<->19
+check fail.
+close success.
+ %  S 24 <-> E 22 | 108
+close link : 24<->22
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3990
+time : 0.932
+check_subject...
+time : 0.044
+close success.
+ %  S 24 <-> E 23 | 109
+close link : 24<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3198
+time : 0.744
+check_subject...
+4
+85->(0.805001/5)24->(9.9712/10)19->(6.756/10)14->(9.9587/10)22->(17.7301/100)109
+85->(0.805001/5)24->(9.9712/10)19->(6.756/10)14->(8.9083/10)23->(14.1114/100)109
+85->(0.805001/5)24->(9.9712/10)19->(4.6071/10)15->(5.2223/10)23->(14.1114/100)109
+85->(0.805001/5)24->(9.9712/10)19->(4.6071/10)15->(7.7906/10)22->(17.7301/100)109
+failed opt on flow 109->85 : 0.08
+ S : 85 D : 109 number : 4
+85->24->19->14->22->109->
+85->24->19->14->23->109->
+85->24->19->15->23->109->
+85->24->19->15->22->109->
+open link : 24<->23
+check fail.
+close success.
+ %  S 27 <-> E 19 | 110
+close link : 27<->19
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1726
+time : 0.412
+check_subject...
+time : 0.042
+close success.
+ %  S 27 <-> E 18 | 111
+close link : 27<->18
+checking network connectivity...time : 0
+open link : 27<->18
+connect fail.
+ %  S 35 <-> E 15 | 112
+close link : 35<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2715
+time : 0.763
+check_subject...
+2
+105->(0.00240071/5)35->(9.9676/10)14->(7.9557/10)19->(17.2114/100)108
+105->(0.00240071/5)35->(9.9676/10)14->(3.4933/10)18->(7.0089/100)108
+failed opt on flow 108->105 : 0.08
+ S : 105 D : 108 number : 2
+105->35->14->19->108->
+105->35->14->18->108->
+open link : 35<->15
+check fail.
+close success.
+ %  S 35 <-> E 14 | 113
+close link : 35<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2691
+time : 0.725
+check_subject...
+2
+105->(0.00240071/5)35->(9.9676/10)15->(7.895/10)19->(17.2114/100)108
+105->(0.00240071/5)35->(9.9676/10)15->(6.9194/10)18->(7.0089/100)108
+failed opt on flow 108->105 : 0.08
+ S : 105 D : 108 number : 2
+105->35->15->19->108->
+105->35->15->18->108->
+open link : 35<->14
+check fail.
+close success.
+ %  S 52 <-> E 9 | 114
+close link : 52<->9
+checking network connectivity...time : 0
+open link : 52<->9
+connect fail.
+ %  S 53 <-> E 9 | 115
+close link : 53<->9
+checking network connectivity...time : 0
+open link : 53<->9
+connect fail.
+ %  S 33 <-> E 31 | 116
+close link : 33<->31
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1776
+time : 0.376
+check_subject...
+time : 0.042
+close success.
+ %  S 33 <-> E 14 | 117
+close link : 33<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1035
+time : 0.316
+check_subject...
+time : 0.039
+close success.
+ %  S 33 <-> E 15 | 118
+close link : 33<->15
+checking network connectivity...time : 0
+open link : 33<->15
+connect fail.
+ %  S 29 <-> E 18 | 119
+close link : 29<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1847
+time : 0.405
+check_subject...
+time : 0.039
+close success.
+ %  S 29 <-> E 19 | 120
+close link : 29<->19
+checking network connectivity...time : 0
+open link : 29<->19
+connect fail.
+ %  S 35 <-> E 31 | 121
+close link : 35<->31
+checking network connectivity...time : 0
+open link : 35<->31
+connect fail.
+ %  S 84 <-> E 24 | 122
+close link : 84<->24
+checking network connectivity...time : 0
+open link : 84<->24
+connect fail.
+ %  S 85 <-> E 24 | 123
+close link : 85<->24
+checking network connectivity...time : 0
+open link : 85<->24
+connect fail.
+ %  S 37 <-> E 1 | 124
+close link : 37<->1
+checking network connectivity...time : 0
+open link : 37<->1
+connect fail.
+ %  S 36 <-> E 1 | 125
+close link : 36<->1
+checking network connectivity...time : 0
+open link : 36<->1
+connect fail.
+ %  S 9 <-> E 6 | 126
+close link : 9<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3992
+time : 0.993
+check_subject...
+time : 0.036
+close success.
+ %  S 9 <-> E 7 | 127
+close link : 9<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3694
+time : 1.096
+check_subject...
+time : 0.034
+close success.
+ %  S 110 <-> E 15 | 128
+close link : 110<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 421
+time : 0.121
+check_subject...
+time : 0.033
+close success.
+ %  S 110 <-> E 14 | 129
+close link : 110<->14
+checking network connectivity...time : 0
+open link : 110<->14
+connect fail.
+ %  S 19 <-> E 9 | 130
+close link : 19<->9
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1536
+time : 0.445
+check_subject...
+time : 0.033
+close success.
+ %  S 18 <-> E 9 | 131
+close link : 18<->9
+checking network connectivity...time : 0
+open link : 18<->9
+connect fail.
+ %  S 23 <-> E 15 | 132
+close link : 23<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3584
+time : 1.107
+check_subject...
+2
+68->(1.9347/5)17->(1.9347/10)23->(9.9631/10)14->(5.4983/10)6->(8.7406/100)111
+68->(1.9347/5)17->(1.9347/10)23->(9.9631/10)14->(9.66/10)7->(11.0742/100)111
+failed opt on flow 111->68 : 0.08
+ S : 68 D : 111 number : 2
+68->17->23->14->6->111->
+68->17->23->14->7->111->
+open link : 23<->15
+check fail.
+close success.
+ %  S 22 <-> E 15 | 133
+close link : 22<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1150
+time : 0.391
+check_subject...
+1
+77->(0.564901/5)21->(3.7801/10)15->(9.9612/10)23->(16.4571/100)109
+failed opt on flow 109->77 : 0.08
+ S : 77 D : 109 number : 1
+77->21->15->23->109->
+open link : 22<->15
+check fail.
+close success.
+ %  S 23 <-> E 14 | 134
+close link : 23<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3469
+time : 1.067
+check_subject...
+4
+80->(2.2548/5)22->(9.9579/10)14->(5.0888/10)7->(18.0443/100)111
+80->(2.2548/5)22->(9.9579/10)14->(4.6311/10)6->(8.7511/100)111
+80->(2.2548/5)22->(8.9783/10)15->(9.9736/10)6->(8.7511/100)111
+80->(2.2548/5)22->(8.9783/10)15->(9.9625/10)7->(18.0443/100)111
+failed opt on flow 111->80 : 0.08
+ S : 80 D : 111 number : 4
+80->22->14->7->111->
+80->22->14->6->111->
+80->22->15->6->111->
+80->22->15->7->111->
+open link : 23<->14
+check fail.
+close success.
+ %  S 22 <-> E 14 | 135
+close link : 22<->14
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 1125
+time : 0.357
+check_subject...
+2
+77->(1.9347/5)21->(5.1499/10)15->(9.95/10)6->(13.551/100)111
+77->(1.9347/5)21->(5.1499/10)15->(9.9704/10)7->(11.0818/100)111
+failed opt on flow 111->77 : 0.08
+ S : 77 D : 111 number : 2
+77->21->15->6->111->
+77->21->15->7->111->
+open link : 22<->14
+check fail.
+close success.
+ %  S 7 <-> E 3 | 136
+close link : 7<->3
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3012
+time : 0.776
+check_subject...
+time : 0.03
+close success.
+ %  S 6 <-> E 3 | 137
+close link : 6<->3
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2064
+time : 0.681
+check_subject...
+8
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(6.181/10)7->(3.1256/10)15->(3.1256/10)22->(5.7719/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(6.181/10)7->(3.1256/10)15->(3.7e-007/10)23->(1e-008/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(6.181/10)7->(1.5325/10)14->(4.2e-007/10)23->(1e-008/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(3.7937/10)6->(1.1426/10)14->(4.2e-007/10)23->(1e-008/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(6.181/10)7->(1.5325/10)14->(2.6463/10)22->(5.7719/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(3.7937/10)6->(1.1426/10)14->(2.6463/10)22->(5.7719/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(3.7937/10)6->(0.00480084/10)15->(3.1256/10)22->(5.7719/100)109
+41->(1.6075/5)3->(4.6629/10)1->(9.9747/10)5->(3.7937/10)6->(0.00480084/10)15->(3.7e-007/10)23->(1e-008/100)109
+failed opt on flow 109->41 : 0.08
+ S : 41 D : 109 number : 8
+41->3->1->5->7->15->22->109->
+41->3->1->5->7->15->23->109->
+41->3->1->5->7->14->23->109->
+41->3->1->5->6->14->23->109->
+41->3->1->5->7->14->22->109->
+41->3->1->5->6->14->22->109->
+41->3->1->5->6->15->22->109->
+41->3->1->5->6->15->23->109->
+open link : 6<->3
+check fail.
+close success.
+ %  S 6 <-> E 5 | 138
+close link : 6<->5
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2584
+time : 0.687
+check_subject...
+4
+45->(1.6074/5)5->(9.9746/10)7->(5.7862/10)15->(5.7718/10)22->(7.2947/100)109
+45->(1.6074/5)5->(9.9746/10)7->(5.7862/10)15->(6e-007/10)23->(1.6827/100)109
+45->(1.6074/5)5->(9.9746/10)7->(0.0192017/10)14->(1.6827/10)23->(1.6827/100)109
+45->(1.6074/5)5->(9.9746/10)7->(0.0192017/10)14->(1.5229/10)22->(7.2947/100)109
+failed opt on flow 109->45 : 0.08
+ S : 45 D : 109 number : 4
+45->5->7->15->22->109->
+45->5->7->15->23->109->
+45->5->7->14->23->109->
+45->5->7->14->22->109->
+open link : 6<->5
+check fail.
+close success.
+ %  S 7 <-> E 5 | 139
+close link : 7<->5
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2576
+time : 0.665
+check_subject...
+4
+45->(1.6074/5)5->(9.9746/10)6->(7.8972/10)14->(4.8082/10)23->(4.8082/100)109
+45->(1.6074/5)5->(9.9746/10)6->(7.8972/10)14->(3.0458/10)22->(4.1692/100)109
+45->(1.6074/5)5->(9.9746/10)6->(1.133/10)15->(1.1234/10)22->(4.1692/100)109
+45->(1.6074/5)5->(9.9746/10)6->(1.133/10)15->(7.1e-007/10)23->(4.8082/100)109
+failed opt on flow 109->45 : 0.08
+ S : 45 D : 109 number : 4
+45->5->6->14->23->109->
+45->5->6->14->22->109->
+45->5->6->15->22->109->
+45->5->6->15->23->109->
+open link : 7<->5
+check fail.
+close success.
+ %  S 3 <-> E 1 | 140
+close link : 3<->1
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1600
+time : 0.381
+check_subject...
+time : 0.03
+close success.
+ %  S 5 <-> E 1 | 141
+close link : 5<->1
+checking network connectivity...time : 0.001
+open link : 5<->1
+connect fail.
+ %  S 19 <-> E 15 | 142
+close link : 19<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3274
+time : 1.134
+check_subject...
+1
+100->(1.6027/5)33->(1.6027/10)15->(9.9284/10)18->(9.9236/100)108
+failed opt on flow 108->100 : 0.08
+ S : 100 D : 108 number : 1
+100->33->15->18->108->
+open link : 19<->15
+check fail.
+close success.
+ %  S 19 <-> E 14 | 143
+close link : 19<->14
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3149
+time : 1.124
+check_subject...
+2
+100->(0.722601/5)33->(0.722603/10)15->(9.9776/10)19->(12.9243/100)108
+100->(0.722601/5)33->(0.722603/10)15->(9.9793/10)18->(6.9681/100)108
+failed opt on flow 108->100 : 0.08
+ S : 100 D : 108 number : 2
+100->33->15->19->108->
+100->33->15->18->108->
+open link : 19<->14
+check fail.
+close success.
+ %  S 18 <-> E 14 | 144
+close link : 18<->14
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 1907
+time : 0.667
+check_subject...
+3
+104->(0.402501/5)35->(6.5776/10)15->(9.977/10)19->(19.8584/100)108
+104->(0.402501/5)35->(6.5776/10)15->(9.99871/10)18->(7.5593/100)108
+104->(0.402501/5)35->(6.1751/10)14->(9.9747/10)19->(19.8584/100)108
+failed opt on flow 108->104 : 0.08
+ S : 104 D : 108 number : 3
+104->35->15->19->108->
+104->35->15->18->108->
+104->35->14->19->108->
+open link : 18<->14
+check fail.
+close success.
+ %  S 18 <-> E 15 | 145
+close link : 18<->15
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 1962
+time : 0.776
+check_subject...
+1
+88->(3.05/5)27->(3.05/10)18->(9.96461/10)14->(10.4361/100)110
+failed opt on flow 110->88 : 0.08
+ S : 88 D : 110 number : 1
+88->27->18->14->110->
+open link : 18<->15
+check fail.
+close success.
+ %  S 108 <-> E 18 | 146
+close link : 108<->18
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 782
+time : 0.232
+check_subject...
+2
+104->(0.322501/5)35->(4.9803/10)14->(9.9243/10)19->(22.8577/100)108
+104->(0.322501/5)35->(4.9724/10)15->(9.9867/10)19->(22.8577/100)108
+failed opt on flow 108->104 : 0.08
+ S : 104 D : 108 number : 2
+104->35->14->19->108->
+104->35->15->19->108->
+open link : 108<->18
+check fail.
+close success.
+ %  S 108 <-> E 19 | 147
+close link : 108<->19
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 788
+time : 0.249
+check_subject...
+1
+64->(0.0824007/5)15->(9.9677/10)18->(3.1059/100)108
+failed opt on flow 108->64 : 0.08
+ S : 64 D : 108 number : 1
+64->15->18->108->
+open link : 108<->19
+check fail.
+close success.
+ %  S 111 <-> E 7 | 148
+close link : 111<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 400
+time : 0.11
+check_subject...
+1
+65->(3.2149/5)14->(9.9999/10)6->(19.5721/100)111
+failed opt on flow 111->65 : 0.0001
+ S : 65 D : 111 number : 1
+65->14->6->111->
+open link : 111<->7
+check fail.
+close success.
+ %  S 111 <-> E 6 | 149
+close link : 111<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 400
+time : 0.114
+check_subject...
+1
+45->(3.1324/5)5->(9.9575/10)7->(8.735/100)111
+failed opt on flow 111->45 : 0.08
+ S : 45 D : 111 number : 1
+45->5->7->111->
+open link : 111<->6
+check fail.
+close success.
+ %  S 14 <-> E 6 | 150
+close link : 14<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2988
+time : 0.927
+check_subject...
+3
+80->(2.0948/5)22->(9.9416/10)15->(9.9885/10)7->(15.4945/100)111
+80->(2.0948/5)22->(9.9416/10)15->(9.58151/10)6->(11.1409/100)111
+80->(2.0948/5)22->(3.4599/10)14->(9.9356/10)7->(15.4945/100)111
+failed opt on flow 111->80 : 0.08
+ S : 80 D : 111 number : 3
+80->22->15->7->111->
+80->22->15->6->111->
+80->22->14->7->111->
+open link : 14<->6
+check fail.
+close success.
+ %  S 15 <-> E 7 | 151
+close link : 15<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3108
+time : 1.065
+check_subject...
+2
+57->(1.5275/5)11->(4.9025/10)7->(9.9794/10)14->(9.9396/10)23->(11.6223/100)109
+57->(1.5275/5)11->(4.9025/10)7->(9.9794/10)14->(6.0882/10)22->(7.8508/100)109
+failed opt on flow 109->57 : 0.08
+ S : 57 D : 109 number : 2
+57->11->7->14->23->109->
+57->11->7->14->22->109->
+open link : 15<->7
+check fail.
+close success.
+ %  S 14 <-> E 7 | 152
+close link : 14<->7
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 2988
+time : 0.946
+check_subject...
+2
+57->(1.5275/5)11->(4.9025/10)7->(9.9746/10)15->(8.3334/10)23->(12.9021/100)109
+57->(1.5275/5)11->(4.9025/10)7->(9.9746/10)15->(5.0481/10)22->(6.571/100)109
+failed opt on flow 109->57 : 0.08
+ S : 57 D : 109 number : 2
+57->11->7->15->23->109->
+57->11->7->15->22->109->
+open link : 14<->7
+check fail.
+close success.
+ %  S 15 <-> E 6 | 153
+close link : 15<->6
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 3108
+time : 1.03
+check_subject...
+1
+76->(1.6149/5)21->(1.6149/10)15->(9.975/10)7->(15.3296/100)111
+failed opt on flow 111->76 : 0.08
+ S : 76 D : 111 number : 1
+76->21->15->7->111->
+open link : 15<->6
+check fail.
+close success.
+ %  S 109 <-> E 22 | 154
+close link : 109<->22
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 426
+time : 0.114
+check_subject...
+4
+68->(2.0147/5)17->(2.0147/10)23->(9.9676/10)14->(9.0232/10)6->(8.5006/100)111
+68->(2.0147/5)17->(2.0147/10)23->(9.9676/10)14->(1.9683/10)7->(11.3942/100)111
+68->(2.0147/5)17->(2.0147/10)23->(9.9427/10)15->(8.5902/10)7->(11.3942/100)111
+68->(2.0147/5)17->(2.0147/10)23->(9.9427/10)15->(3.1353/10)6->(8.5006/100)111
+failed opt on flow 111->68 : 0.08
+ S : 68 D : 111 number : 4
+68->17->23->14->6->111->
+68->17->23->14->7->111->
+68->17->23->15->7->111->
+68->17->23->15->6->111->
+open link : 109<->22
+check fail.
+close success.
+ %  S 109 <-> E 23 | 155
+close link : 109<->23
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 436
+time : 0.127
+check_subject...
+2
+68->(0.324801/5)17->(0.324802/10)23->(0.0192025/10)15->(9.9506/10)22->(19.8924/100)109
+68->(0.324801/5)17->(0.324802/10)23->(3.2907/10)14->(9.9418/10)22->(19.8924/100)109
+failed opt on flow 109->68 : 0.08
+ S : 68 D : 109 number : 2
+68->17->23->15->22->109->
+68->17->23->14->22->109->
+open link : 109<->23
+check fail.
+close success.
+nodes : 0 : 
+OFF | 0 <-> 2
+OFF | 0 <-> 3
+OFF | 0 <-> 4
+OFF | 0 <-> 5
+OFF | 0 <-> 36
+OFF | 0 <-> 37
+OFF | 0 <-> 38
+OFF | 0 <-> 39
+nodes : 1 : 
+OFF | 1 <-> 2
+OFF | 1 <-> 3
+OFF | 1 <-> 4
+ON | 1 <-> 5 | 5.3118 / 10
+ON | 1 <-> 36 | 3.0554 / 5
+ON | 1 <-> 37 | 2.2564 / 5
+ON | 1 <-> 38 | 7.5e-007 / 5
+ON | 1 <-> 39 | 7.5e-007 / 5
+nodes : 2 : 
+OFF | 2 <-> 0
+OFF | 2 <-> 1
+OFF | 2 <-> 6
+OFF | 2 <-> 7
+OFF | 2 <-> 40
+OFF | 2 <-> 41
+OFF | 2 <-> 42
+OFF | 2 <-> 43
+nodes : 3 : 
+OFF | 3 <-> 0
+OFF | 3 <-> 1
+ON | 3 <-> 6 | 6.4304 / 10
+OFF | 3 <-> 7
+ON | 3 <-> 40 | 3.0554 / 5
+ON | 3 <-> 41 | 3.375 / 5
+ON | 3 <-> 42 | 7.5e-007 / 5
+ON | 3 <-> 43 | 7.5e-007 / 5
+nodes : 4 : 
+OFF | 4 <-> 0
+OFF | 4 <-> 1
+OFF | 4 <-> 6
+OFF | 4 <-> 7
+OFF | 4 <-> 44
+OFF | 4 <-> 45
+OFF | 4 <-> 46
+OFF | 4 <-> 47
+nodes : 5 : 
+OFF | 5 <-> 0
+ON | 5 <-> 1 | 5.3118 / 10
+ON | 5 <-> 6 | 4.6678 / 10
+ON | 5 <-> 7 | 7.2342 / 10
+ON | 5 <-> 44 | 3.0554 / 5
+ON | 5 <-> 45 | 3.5348 / 5
+ON | 5 <-> 46 | 7.5e-007 / 5
+ON | 5 <-> 47 | 7.5e-007 / 5
+nodes : 6 : 
+OFF | 6 <-> 2
+ON | 6 <-> 3 | 6.4304 / 10
+OFF | 6 <-> 4
+ON | 6 <-> 5 | 4.6678 / 10
+OFF | 6 <-> 8
+OFF | 6 <-> 9
+OFF | 6 <-> 10
+OFF | 6 <-> 11
+ON | 6 <-> 14 | 5.8152 / 10
+ON | 6 <-> 15 | 6.5806 / 10
+ON | 6 <-> 48 | 3.5348 / 5
+OFF | 6 <-> 49
+ON | 6 <-> 50 | 7.5e-007 / 5
+OFF | 6 <-> 51
+ON | 6 <-> 111 | 8.4982 / 100
+nodes : 7 : 
+OFF | 7 <-> 2
+OFF | 7 <-> 3
+OFF | 7 <-> 4
+ON | 7 <-> 5 | 7.2342 / 10
+OFF | 7 <-> 8
+OFF | 7 <-> 9
+OFF | 7 <-> 10
+ON | 7 <-> 11 | 6.5902 / 10
+ON | 7 <-> 14 | 5.2513 / 10
+ON | 7 <-> 15 | 4.7475 / 10
+OFF | 7 <-> 48
+ON | 7 <-> 49 | 3.8544 / 5
+OFF | 7 <-> 50
+ON | 7 <-> 51 | 7.5e-007 / 5
+ON | 7 <-> 111 | 11.0742 / 100
+nodes : 8 : 
+OFF | 8 <-> 6
+OFF | 8 <-> 7
+OFF | 8 <-> 12
+OFF | 8 <-> 13
+OFF | 8 <-> 18
+OFF | 8 <-> 19
+OFF | 8 <-> 52
+OFF | 8 <-> 53
+OFF | 8 <-> 54
+OFF | 8 <-> 55
+nodes : 9 : 
+OFF | 9 <-> 6
+OFF | 9 <-> 7
+OFF | 9 <-> 12
+OFF | 9 <-> 13
+ON | 9 <-> 18 | 6.9098 / 10
+OFF | 9 <-> 19
+ON | 9 <-> 52 | 3.375 / 5
+ON | 9 <-> 53 | 3.5348 / 5
+ON | 9 <-> 54 | 7.5e-007 / 5
+ON | 9 <-> 55 | 7.5e-007 / 5
+nodes : 10 : 
+OFF | 10 <-> 6
+OFF | 10 <-> 7
+OFF | 10 <-> 12
+OFF | 10 <-> 13
+OFF | 10 <-> 56
+OFF | 10 <-> 57
+OFF | 10 <-> 58
+OFF | 10 <-> 59
+nodes : 11 : 
+OFF | 11 <-> 6
+ON | 11 <-> 7 | 6.5902 / 10
+OFF | 11 <-> 12
+OFF | 11 <-> 13
+ON | 11 <-> 56 | 3.375 / 5
+ON | 11 <-> 57 | 3.2152 / 5
+ON | 11 <-> 58 | 7.5e-007 / 5
+ON | 11 <-> 59 | 7.5e-007 / 5
+nodes : 12 : 
+OFF | 12 <-> 8
+OFF | 12 <-> 9
+OFF | 12 <-> 10
+OFF | 12 <-> 11
+OFF | 12 <-> 16
+OFF | 12 <-> 17
+OFF | 12 <-> 18
+OFF | 12 <-> 19
+OFF | 12 <-> 24
+OFF | 12 <-> 25
+OFF | 12 <-> 60
+OFF | 12 <-> 61
+OFF | 12 <-> 62
+OFF | 12 <-> 63
+nodes : 13 : 
+OFF | 13 <-> 8
+OFF | 13 <-> 9
+OFF | 13 <-> 10
+OFF | 13 <-> 11
+OFF | 13 <-> 16
+OFF | 13 <-> 17
+OFF | 13 <-> 18
+OFF | 13 <-> 19
+ON | 13 <-> 24 | 5.951 / 10
+OFF | 13 <-> 25
+ON | 13 <-> 60 | 3.2152 / 5
+ON | 13 <-> 61 | 2.7358 / 5
+ON | 13 <-> 62 | 7.5e-007 / 5
+ON | 13 <-> 63 | 7.5e-007 / 5
+nodes : 14 : 
+ON | 14 <-> 6 | 5.8152 / 10
+ON | 14 <-> 7 | 5.2513 / 10
+OFF | 14 <-> 16
+OFF | 14 <-> 17
+ON | 14 <-> 18 | 0.0240023 / 10
+ON | 14 <-> 19 | 1.6172 / 10
+OFF | 14 <-> 20
+OFF | 14 <-> 21
+ON | 14 <-> 22 | 9.9418 / 10
+ON | 14 <-> 23 | 3.2907 / 10
+OFF | 14 <-> 32
+OFF | 14 <-> 33
+OFF | 14 <-> 34
+ON | 14 <-> 35 | 1.57e-006 / 10
+OFF | 14 <-> 64
+ON | 14 <-> 65 | 3.2152 / 5
+ON | 14 <-> 66 | 7.5e-007 / 5
+ON | 14 <-> 67 | 7.5e-007 / 5
+ON | 14 <-> 110 | 5.9894 / 100
+nodes : 15 : 
+ON | 15 <-> 6 | 6.5806 / 10
+ON | 15 <-> 7 | 4.7475 / 10
+OFF | 15 <-> 16
+OFF | 15 <-> 17
+ON | 15 <-> 18 | 6.8954 / 10
+ON | 15 <-> 19 | 1.3823 / 10
+OFF | 15 <-> 20
+ON | 15 <-> 21 | 1.32e-006 / 10
+ON | 15 <-> 22 | 9.9506 / 10
+ON | 15 <-> 23 | 0.0192025 / 10
+OFF | 15 <-> 32
+ON | 15 <-> 33 | 1.32e-006 / 10
+OFF | 15 <-> 34
+ON | 15 <-> 35 | 1.07e-006 / 10
+ON | 15 <-> 64 | 2.7358 / 5
+OFF | 15 <-> 65
+OFF | 15 <-> 66
+OFF | 15 <-> 67
+OFF | 15 <-> 110
+nodes : 16 : 
+OFF | 16 <-> 12
+OFF | 16 <-> 13
+OFF | 16 <-> 14
+OFF | 16 <-> 15
+OFF | 16 <-> 18
+OFF | 16 <-> 19
+OFF | 16 <-> 22
+OFF | 16 <-> 23
+OFF | 16 <-> 24
+OFF | 16 <-> 25
+OFF | 16 <-> 68
+OFF | 16 <-> 69
+OFF | 16 <-> 70
+OFF | 16 <-> 71
+nodes : 17 : 
+OFF | 17 <-> 12
+OFF | 17 <-> 13
+OFF | 17 <-> 14
+OFF | 17 <-> 15
+OFF | 17 <-> 18
+OFF | 17 <-> 19
+OFF | 17 <-> 22
+ON | 17 <-> 23 | 0.324802 / 10
+OFF | 17 <-> 24
+OFF | 17 <-> 25
+ON | 17 <-> 68 | 0.324801 / 5
+ON | 17 <-> 69 | 3.3e-007 / 5
+ON | 17 <-> 70 | 3.3e-007 / 5
+ON | 17 <-> 71 | 3.3e-007 / 5
+nodes : 18 : 
+OFF | 18 <-> 8
+ON | 18 <-> 9 | 6.9098 / 10
+OFF | 18 <-> 12
+OFF | 18 <-> 13
+ON | 18 <-> 14 | 0.0240023 / 10
+ON | 18 <-> 15 | 6.8954 / 10
+OFF | 18 <-> 16
+OFF | 18 <-> 17
+OFF | 18 <-> 24
+OFF | 18 <-> 25
+OFF | 18 <-> 26
+ON | 18 <-> 27 | 1.32e-006 / 10
+OFF | 18 <-> 28
+OFF | 18 <-> 29
+OFF | 18 <-> 72
+ON | 18 <-> 73 | 3.3e-007 / 5
+OFF | 18 <-> 74
+OFF | 18 <-> 75
+ON | 18 <-> 108 | 0.0288001 / 100
+nodes : 19 : 
+OFF | 19 <-> 8
+OFF | 19 <-> 9
+OFF | 19 <-> 12
+OFF | 19 <-> 13
+ON | 19 <-> 14 | 1.6172 / 10
+ON | 19 <-> 15 | 1.3823 / 10
+OFF | 19 <-> 16
+OFF | 19 <-> 17
+ON | 19 <-> 24 | 2.9659 / 10
+OFF | 19 <-> 25
+OFF | 19 <-> 26
+OFF | 19 <-> 27
+OFF | 19 <-> 28
+ON | 19 <-> 29 | 1.32e-006 / 10
+ON | 19 <-> 72 | 3.3e-007 / 5
+OFF | 19 <-> 73
+ON | 19 <-> 74 | 3.3e-007 / 5
+ON | 19 <-> 75 | 3.3e-007 / 5
+ON | 19 <-> 108 | 5.9654 / 100
+nodes : 20 : 
+OFF | 20 <-> 14
+OFF | 20 <-> 15
+OFF | 20 <-> 22
+OFF | 20 <-> 23
+OFF | 20 <-> 34
+OFF | 20 <-> 35
+OFF | 20 <-> 76
+OFF | 20 <-> 77
+OFF | 20 <-> 78
+OFF | 20 <-> 79
+nodes : 21 : 
+OFF | 21 <-> 14
+ON | 21 <-> 15 | 1.32e-006 / 10
+OFF | 21 <-> 22
+OFF | 21 <-> 23
+OFF | 21 <-> 34
+OFF | 21 <-> 35
+ON | 21 <-> 76 | 3.3e-007 / 5
+ON | 21 <-> 77 | 3.3e-007 / 5
+ON | 21 <-> 78 | 3.3e-007 / 5
+ON | 21 <-> 79 | 3.3e-007 / 5
+nodes : 22 : 
+ON | 22 <-> 14 | 9.9418 / 10
+ON | 22 <-> 15 | 9.9506 / 10
+OFF | 22 <-> 16
+OFF | 22 <-> 17
+OFF | 22 <-> 20
+OFF | 22 <-> 21
+OFF | 22 <-> 24
+OFF | 22 <-> 25
+OFF | 22 <-> 26
+OFF | 22 <-> 27
+ON | 22 <-> 80 | 3.3e-007 / 5
+ON | 22 <-> 81 | 3.3e-007 / 5
+ON | 22 <-> 82 | 3.3e-007 / 5
+OFF | 22 <-> 83
+ON | 22 <-> 109 | 19.8924 / 100
+nodes : 23 : 
+ON | 23 <-> 14 | 3.2907 / 10
+ON | 23 <-> 15 | 0.0192025 / 10
+OFF | 23 <-> 16
+ON | 23 <-> 17 | 0.324802 / 10
+OFF | 23 <-> 20
+OFF | 23 <-> 21
+ON | 23 <-> 24 | 2.9851 / 10
+OFF | 23 <-> 25
+OFF | 23 <-> 26
+OFF | 23 <-> 27
+OFF | 23 <-> 80
+OFF | 23 <-> 81
+OFF | 23 <-> 82
+ON | 23 <-> 83 | 3.3e-007 / 5
+ON | 23 <-> 109 | 0 / 100
+nodes : 24 : 
+OFF | 24 <-> 12
+ON | 24 <-> 13 | 5.951 / 10
+OFF | 24 <-> 16
+OFF | 24 <-> 17
+OFF | 24 <-> 18
+ON | 24 <-> 19 | 2.9659 / 10
+OFF | 24 <-> 22
+ON | 24 <-> 23 | 2.9851 / 10
+ON | 24 <-> 84 | 3.3e-007 / 5
+ON | 24 <-> 85 | 3.3e-007 / 5
+ON | 24 <-> 86 | 3.3e-007 / 5
+ON | 24 <-> 87 | 3.3e-007 / 5
+nodes : 25 : 
+OFF | 25 <-> 12
+OFF | 25 <-> 13
+OFF | 25 <-> 16
+OFF | 25 <-> 17
+OFF | 25 <-> 18
+OFF | 25 <-> 19
+OFF | 25 <-> 22
+OFF | 25 <-> 23
+OFF | 25 <-> 84
+OFF | 25 <-> 85
+OFF | 25 <-> 86
+OFF | 25 <-> 87
+nodes : 26 : 
+OFF | 26 <-> 18
+OFF | 26 <-> 19
+OFF | 26 <-> 22
+OFF | 26 <-> 23
+OFF | 26 <-> 88
+OFF | 26 <-> 89
+OFF | 26 <-> 90
+OFF | 26 <-> 91
+nodes : 27 : 
+ON | 27 <-> 18 | 1.32e-006 / 10
+OFF | 27 <-> 19
+OFF | 27 <-> 22
+OFF | 27 <-> 23
+ON | 27 <-> 88 | 3.3e-007 / 5
+ON | 27 <-> 89 | 3.3e-007 / 5
+ON | 27 <-> 90 | 3.3e-007 / 5
+ON | 27 <-> 91 | 3.3e-007 / 5
+nodes : 28 : 
+OFF | 28 <-> 18
+OFF | 28 <-> 19
+OFF | 28 <-> 92
+OFF | 28 <-> 93
+OFF | 28 <-> 94
+OFF | 28 <-> 95
+nodes : 29 : 
+OFF | 29 <-> 18
+ON | 29 <-> 19 | 1.32e-006 / 10
+ON | 29 <-> 92 | 3.3e-007 / 5
+ON | 29 <-> 93 | 3.3e-007 / 5
+ON | 29 <-> 94 | 3.3e-007 / 5
+ON | 29 <-> 95 | 3.3e-007 / 5
+nodes : 30 : 
+OFF | 30 <-> 32
+OFF | 30 <-> 33
+OFF | 30 <-> 34
+OFF | 30 <-> 35
+OFF | 30 <-> 96
+OFF | 30 <-> 97
+OFF | 30 <-> 98
+OFF | 30 <-> 99
+nodes : 31 : 
+OFF | 31 <-> 32
+OFF | 31 <-> 33
+OFF | 31 <-> 34
+ON | 31 <-> 35 | 1.32e-006 / 10
+ON | 31 <-> 96 | 3.3e-007 / 5
+ON | 31 <-> 97 | 3.3e-007 / 5
+ON | 31 <-> 98 | 3.3e-007 / 5
+ON | 31 <-> 99 | 3.3e-007 / 5
+nodes : 32 : 
+OFF | 32 <-> 14
+OFF | 32 <-> 15
+OFF | 32 <-> 30
+OFF | 32 <-> 31
+OFF | 32 <-> 34
+OFF | 32 <-> 35
+OFF | 32 <-> 100
+OFF | 32 <-> 101
+OFF | 32 <-> 102
+OFF | 32 <-> 103
+nodes : 33 : 
+OFF | 33 <-> 14
+ON | 33 <-> 15 | 1.32e-006 / 10
+OFF | 33 <-> 30
+OFF | 33 <-> 31
+OFF | 33 <-> 34
+OFF | 33 <-> 35
+ON | 33 <-> 100 | 3.3e-007 / 5
+ON | 33 <-> 101 | 3.3e-007 / 5
+ON | 33 <-> 102 | 3.3e-007 / 5
+ON | 33 <-> 103 | 3.3e-007 / 5
+nodes : 34 : 
+OFF | 34 <-> 14
+OFF | 34 <-> 15
+OFF | 34 <-> 20
+OFF | 34 <-> 21
+OFF | 34 <-> 30
+OFF | 34 <-> 31
+OFF | 34 <-> 32
+OFF | 34 <-> 33
+OFF | 34 <-> 104
+OFF | 34 <-> 105
+OFF | 34 <-> 106
+OFF | 34 <-> 107
+nodes : 35 : 
+ON | 35 <-> 14 | 1.57e-006 / 10
+ON | 35 <-> 15 | 1.07e-006 / 10
+OFF | 35 <-> 20
+OFF | 35 <-> 21
+OFF | 35 <-> 30
+ON | 35 <-> 31 | 1.32e-006 / 10
+OFF | 35 <-> 32
+OFF | 35 <-> 33
+ON | 35 <-> 104 | 3.3e-007 / 5
+ON | 35 <-> 105 | 3.3e-007 / 5
+ON | 35 <-> 106 | 3.3e-007 / 5
+ON | 35 <-> 107 | 3.3e-007 / 5
+nodes : 36 : 
+OFF | 36 <-> 0
+ON | 36 <-> 1 | 3.0554 / 5
+nodes : 37 : 
+OFF | 37 <-> 0
+ON | 37 <-> 1 | 2.2564 / 5
+nodes : 38 : 
+OFF | 38 <-> 0
+ON | 38 <-> 1 | 7.5e-007 / 5
+nodes : 39 : 
+OFF | 39 <-> 0
+ON | 39 <-> 1 | 7.5e-007 / 5
+nodes : 40 : 
+OFF | 40 <-> 2
+ON | 40 <-> 3 | 3.0554 / 5
+nodes : 41 : 
+OFF | 41 <-> 2
+ON | 41 <-> 3 | 3.375 / 5
+nodes : 42 : 
+OFF | 42 <-> 2
+ON | 42 <-> 3 | 7.5e-007 / 5
+nodes : 43 : 
+OFF | 43 <-> 2
+ON | 43 <-> 3 | 7.5e-007 / 5
+nodes : 44 : 
+OFF | 44 <-> 4
+ON | 44 <-> 5 | 3.0554 / 5
+nodes : 45 : 
+OFF | 45 <-> 4
+ON | 45 <-> 5 | 3.5348 / 5
+nodes : 46 : 
+OFF | 46 <-> 4
+ON | 46 <-> 5 | 7.5e-007 / 5
+nodes : 47 : 
+OFF | 47 <-> 4
+ON | 47 <-> 5 | 7.5e-007 / 5
+nodes : 48 : 
+ON | 48 <-> 6 | 3.5348 / 5
+OFF | 48 <-> 7
+nodes : 49 : 
+OFF | 49 <-> 6
+ON | 49 <-> 7 | 3.8544 / 5
+nodes : 50 : 
+ON | 50 <-> 6 | 7.5e-007 / 5
+OFF | 50 <-> 7
+nodes : 51 : 
+OFF | 51 <-> 6
+ON | 51 <-> 7 | 7.5e-007 / 5
+nodes : 52 : 
+OFF | 52 <-> 8
+ON | 52 <-> 9 | 3.375 / 5
+nodes : 53 : 
+OFF | 53 <-> 8
+ON | 53 <-> 9 | 3.5348 / 5
+nodes : 54 : 
+OFF | 54 <-> 8
+ON | 54 <-> 9 | 7.5e-007 / 5
+nodes : 55 : 
+OFF | 55 <-> 8
+ON | 55 <-> 9 | 7.5e-007 / 5
+nodes : 56 : 
+OFF | 56 <-> 10
+ON | 56 <-> 11 | 3.375 / 5
+nodes : 57 : 
+OFF | 57 <-> 10
+ON | 57 <-> 11 | 3.2152 / 5
+nodes : 58 : 
+OFF | 58 <-> 10
+ON | 58 <-> 11 | 7.5e-007 / 5
+nodes : 59 : 
+OFF | 59 <-> 10
+ON | 59 <-> 11 | 7.5e-007 / 5
+nodes : 60 : 
+OFF | 60 <-> 12
+ON | 60 <-> 13 | 3.2152 / 5
+nodes : 61 : 
+OFF | 61 <-> 12
+ON | 61 <-> 13 | 2.7358 / 5
+nodes : 62 : 
+OFF | 62 <-> 12
+ON | 62 <-> 13 | 7.5e-007 / 5
+nodes : 63 : 
+OFF | 63 <-> 12
+ON | 63 <-> 13 | 7.5e-007 / 5
+nodes : 64 : 
+OFF | 64 <-> 14
+ON | 64 <-> 15 | 2.7358 / 5
+nodes : 65 : 
+ON | 65 <-> 14 | 3.2152 / 5
+OFF | 65 <-> 15
+nodes : 66 : 
+ON | 66 <-> 14 | 7.5e-007 / 5
+OFF | 66 <-> 15
+nodes : 67 : 
+ON | 67 <-> 14 | 7.5e-007 / 5
+OFF | 67 <-> 15
+nodes : 68 : 
+OFF | 68 <-> 16
+ON | 68 <-> 17 | 0.324801 / 5
+nodes : 69 : 
+OFF | 69 <-> 16
+ON | 69 <-> 17 | 3.3e-007 / 5
+nodes : 70 : 
+OFF | 70 <-> 16
+ON | 70 <-> 17 | 3.3e-007 / 5
+nodes : 71 : 
+OFF | 71 <-> 16
+ON | 71 <-> 17 | 3.3e-007 / 5
+nodes : 72 : 
+OFF | 72 <-> 18
+ON | 72 <-> 19 | 3.3e-007 / 5
+nodes : 73 : 
+ON | 73 <-> 18 | 3.3e-007 / 5
+OFF | 73 <-> 19
+nodes : 74 : 
+OFF | 74 <-> 18
+ON | 74 <-> 19 | 3.3e-007 / 5
+nodes : 75 : 
+OFF | 75 <-> 18
+ON | 75 <-> 19 | 3.3e-007 / 5
+nodes : 76 : 
+OFF | 76 <-> 20
+ON | 76 <-> 21 | 3.3e-007 / 5
+nodes : 77 : 
+OFF | 77 <-> 20
+ON | 77 <-> 21 | 3.3e-007 / 5
+nodes : 78 : 
+OFF | 78 <-> 20
+ON | 78 <-> 21 | 3.3e-007 / 5
+nodes : 79 : 
+OFF | 79 <-> 20
+ON | 79 <-> 21 | 3.3e-007 / 5
+nodes : 80 : 
+ON | 80 <-> 22 | 3.3e-007 / 5
+OFF | 80 <-> 23
+nodes : 81 : 
+ON | 81 <-> 22 | 3.3e-007 / 5
+OFF | 81 <-> 23
+nodes : 82 : 
+ON | 82 <-> 22 | 3.3e-007 / 5
+OFF | 82 <-> 23
+nodes : 83 : 
+OFF | 83 <-> 22
+ON | 83 <-> 23 | 3.3e-007 / 5
+nodes : 84 : 
+ON | 84 <-> 24 | 3.3e-007 / 5
+OFF | 84 <-> 25
+nodes : 85 : 
+ON | 85 <-> 24 | 3.3e-007 / 5
+OFF | 85 <-> 25
+nodes : 86 : 
+ON | 86 <-> 24 | 3.3e-007 / 5
+OFF | 86 <-> 25
+nodes : 87 : 
+ON | 87 <-> 24 | 3.3e-007 / 5
+OFF | 87 <-> 25
+nodes : 88 : 
+OFF | 88 <-> 26
+ON | 88 <-> 27 | 3.3e-007 / 5
+nodes : 89 : 
+OFF | 89 <-> 26
+ON | 89 <-> 27 | 3.3e-007 / 5
+nodes : 90 : 
+OFF | 90 <-> 26
+ON | 90 <-> 27 | 3.3e-007 / 5
+nodes : 91 : 
+OFF | 91 <-> 26
+ON | 91 <-> 27 | 3.3e-007 / 5
+nodes : 92 : 
+OFF | 92 <-> 28
+ON | 92 <-> 29 | 3.3e-007 / 5
+nodes : 93 : 
+OFF | 93 <-> 28
+ON | 93 <-> 29 | 3.3e-007 / 5
+nodes : 94 : 
+OFF | 94 <-> 28
+ON | 94 <-> 29 | 3.3e-007 / 5
+nodes : 95 : 
+OFF | 95 <-> 28
+ON | 95 <-> 29 | 3.3e-007 / 5
+nodes : 96 : 
+OFF | 96 <-> 30
+ON | 96 <-> 31 | 3.3e-007 / 5
+nodes : 97 : 
+OFF | 97 <-> 30
+ON | 97 <-> 31 | 3.3e-007 / 5
+nodes : 98 : 
+OFF | 98 <-> 30
+ON | 98 <-> 31 | 3.3e-007 / 5
+nodes : 99 : 
+OFF | 99 <-> 30
+ON | 99 <-> 31 | 3.3e-007 / 5
+nodes : 100 : 
+OFF | 100 <-> 32
+ON | 100 <-> 33 | 3.3e-007 / 5
+nodes : 101 : 
+OFF | 101 <-> 32
+ON | 101 <-> 33 | 3.3e-007 / 5
+nodes : 102 : 
+OFF | 102 <-> 32
+ON | 102 <-> 33 | 3.3e-007 / 5
+nodes : 103 : 
+OFF | 103 <-> 32
+ON | 103 <-> 33 | 3.3e-007 / 5
+nodes : 104 : 
+OFF | 104 <-> 34
+ON | 104 <-> 35 | 3.3e-007 / 5
+nodes : 105 : 
+OFF | 105 <-> 34
+ON | 105 <-> 35 | 3.3e-007 / 5
+nodes : 106 : 
+OFF | 106 <-> 34
+ON | 106 <-> 35 | 3.3e-007 / 5
+nodes : 107 : 
+OFF | 107 <-> 34
+ON | 107 <-> 35 | 3.3e-007 / 5
+nodes : 108 : 
+ON | 108 <-> 18 | 0.0288001 / 100
+ON | 108 <-> 19 | 5.9654 / 100
+nodes : 109 : 
+ON | 109 <-> 22 | 19.8924 / 100
+ON | 109 <-> 23 | 0 / 100
+nodes : 110 : 
+ON | 110 <-> 14 | 5.9894 / 100
+OFF | 110 <-> 15
+nodes : 111 : 
+ON | 111 <-> 6 | 8.4982 / 100
+ON | 111 <-> 7 | 11.0742 / 100
+
+ @ complete opt link : 42.629
+
+ & complete opt : 136.691

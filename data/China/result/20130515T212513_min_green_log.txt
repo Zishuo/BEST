@@ -1,0 +1,112 @@
+ @ begin to close node...
+
+restore paths...
+time : 1.308
+computing links oc + lf...
+time : 0.112
+computing oc+lf ...
+time : 0.197
+check_subject...
+time : 0.141
+ # 20 | 76
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 14252
+time : 4.476
+check_subject...
+time : 0.142
+close success.
+ # 21 | 77
+checking network connectivity...time : 0
+connect fail.
+ # 10 | 78
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 28636
+time : 10.701
+check_subject...
+time : 0.132
+close success.
+ # 11 | 79
+checking network connectivity...time : 0
+connect fail.
+ # 28 | 80
+checking network connectivity...time : 0.001
+re-computing changed paths...
+re-computer paths number : 10748
+time : 2.115
+check_subject...
+time : 0.135
+close success.
+ # 29 | 81
+checking network connectivity...time : 0
+connect fail.
+ # 16 | 82
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 36124
+time : 15.587
+check_subject...
+time : 0.142
+close success.
+ # 17 | 83
+checking network connectivity...time : 0
+connect fail.
+ # 32 | 84
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 23260
+time : 7.64
+check_subject...
+time : 0.114
+close success.
+ # 33 | 85
+checking network connectivity...time : 0
+connect fail.
+ # 26 | 86
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 17432
+time : 4.513
+check_subject...
+time : 0.102
+close success.
+ # 27 | 87
+checking network connectivity...time : 0
+connect fail.
+ # 34 | 88
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 17916
+time : 4.26
+check_subject...
+time : 0.095
+close success.
+ # 35 | 89
+checking network connectivity...time : 0
+connect fail.
+ # 12 | 90
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 24908
+time : 7.942
+check_subject...
+time : 0.098
+close success.
+ # 13 | 91
+checking network connectivity...time : 0
+connect fail.
+ # 30 | 92
+checking network connectivity...time : 0
+re-computing changed paths...
+re-computer paths number : 8412
+time : 1.517
+check_subject...
+time : 0.094
+close success.
+ # 31 | 93
+checking network connectivity...time : 0
+connect fail.
+ # 4 | 94
+checking network connectivity...time : 0
+re-computing changed paths...
